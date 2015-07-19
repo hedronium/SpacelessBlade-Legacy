@@ -1,5 +1,5 @@
 <?php 
-namespace hedronium\SpacelessBlade;
+namespace solidew\SpacelessBlade;
 use Blade;
 
 class SpacelessBladeProvider extends \Illuminate\Support\ServiceProvider
