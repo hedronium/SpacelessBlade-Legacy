@@ -1,6 +1,6 @@
 {
     "name": "solidew/spaceless-blade",
-    "description": "Adds the @spaceless tag to Blade. (works like in Twig)",
+    "description": "[Deprecated] use hedronium/spaceless-blade",
     "type": "library",
     "keywords": ["spaceless", "laravel", "blade", "twig"],
     "license": "MIT",
